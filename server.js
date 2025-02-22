@@ -66,3 +66,4 @@ module.exports = app;
 app.listen(CONFIG.port, () =>
     logger.info("express: Listening on port " + CONFIG.port)
 );
+

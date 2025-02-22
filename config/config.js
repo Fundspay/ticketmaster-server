@@ -43,3 +43,5 @@ if (process.env.NODE_ENV !== 'production') {
   CONFIG.secretKey = process.env.JWT_KEY || "testfundsresearchkey"
   
   module.exports = CONFIG;
+
+  
