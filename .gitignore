@@ -1,0 +1,69 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.pid.lock
+
+# Directory for temporary files and sockets
+tmp/
+
+# Build output
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Database
+*.sqlite
+*.sqlite3
+db/*.sqlite
+db/*.sqlite3
+
+# Node modules
+node_modules/
+
+
+# IDE files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Debug logs for npm/yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+*.lcov
+
+# Miscellaneous
+*.tgz
+*.lock-wscript
+/.yarn-integrity
+/.pnp.*
+
+# Firebase
+firebase-credentials.json
+
+# Uploads
+uploads/
