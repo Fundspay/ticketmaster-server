@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-TicketMaster Server is a backend system built with Node.js and PostgreSQL to manage user authentication, event creation, and ticket handling for an event registration system.
+TicketMaster Server is a backend system built with Node.js and PostgreSQL to manage user authentication, event creation, and ticket handling for an event registration system which is a PROOF OF CONCEPT for zkp implementation
 
 ## 🛠️ Tech Stack
 
